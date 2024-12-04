@@ -15,6 +15,6 @@ http://hostIp/getAllowedDomains
 
 获取所有域名后缀
 
-http://hostIp/xxx@xx.xx
+http://hostIp/getMail/xxx@xx.xx
 
 直接请求邮箱获取邮件，阅后即焚
