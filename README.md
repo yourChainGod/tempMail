@@ -18,6 +18,3 @@ http://hostIp/getAllowedDomains
 http://hostIp/xxx@xx.xx
 
 直接请求邮箱获取邮件，阅后即焚
-
-当然你也可以搞个域名A记录到你的hostIp
-
