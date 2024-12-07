@@ -1,4 +1,5 @@
 # tempMail
+修改自 [@Jlan45](https://github.com/Jlan45/temporaryMailbox)
 极简临时邮箱，无数据库，阅后即焚，0点清空，支持多域名
 
 # 配置方法
